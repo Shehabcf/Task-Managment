@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "TaskFlow - Real-Time Task Management",
   description: "Collaborative real-time task management system with team collaboration and live updates.",
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "public/task.png",
   },
 };
 
