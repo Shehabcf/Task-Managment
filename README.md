@@ -357,7 +357,7 @@ All real-time events use **project-based rooms** (`project:{projectId}`). Only u
 ```bash
 # Clone the repository
 git clone https://github.com/Shehabcf/Task-Managment
-cd taskflow
+cd Task-Managment
 
 # Install dependencies
 npm install
