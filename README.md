@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/logo.svg" alt="TaskFlow Logo" width="64" height="64" />
-</p>
-
 <h1 align="center">TaskFlow</h1>
 
 <p align="center">
